@@ -1,0 +1,139 @@
+{
+    "questions": [
+      {
+        "question": "Which federal state has the largest area?",
+        "options": ["Niedersachsen", "Bayern", "Baden-Württemberg", "Nordrhein-Westfalen"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Which city is the smallest in Germany in terms of both population and area?",
+        "options": ["Neumark in Thüringen", "Schnackenburg in Niedersachsen", "Märkisch Buchholz in Brandenburg", "Arnis in Schleswig-Holstein"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Which is the largest island in Germany??",
+        "options": ["Rügen", "Sylt", "Föhr", "Borkum"],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "Which of these rivers flows through Germany?",
+        "options": ["Zusammen", "Zusa", "Zusam", "Zusamas"],
+        "correctOption": 2,
+        "points": 10
+      },
+      {
+        "question": "Which is the largest entirely German lake?",
+        "options": [
+          "Müritz",
+          "Chiemsee",
+          "Bodensee",
+          "Starnberger See"
+        ],
+        "correctOption": 0,
+        "points": 10
+      },
+      {
+        "question": "What was East Germany's capital?",
+        "options": ["Hamburg", "Berlin", "Wuppertal", "Leipzig"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Welche dieser Städte ist keine Hauptstadt eines Bundeslandes?",
+        "options": [
+          "Kiel",
+          "Erfurt",
+          "Dresden",
+          "Bonn"
+        ],
+        "correctOption": 3,
+        "points": 30
+      },
+      {
+        "question": "Who unified Germany in 1871?",
+        "options": [
+          "Willy Brandt",
+          "King Frederick William IV of Prussia",
+          "Otto von Bismarck",
+          "Boris Becker"
+        ],
+        "correctOption": 2,
+        "points": 20
+      },
+      {
+        "question": "Who did Prussia defeat in the 19th century to become the dominant German state?",
+        "options": [
+          "Saxony",
+          "Bavaria",
+          "Rhineland Palatinate",
+          "Austria"
+        ],
+        "correctOption": 3,
+        "points": 20
+      },
+      {
+        "question": "Who did Goethe's Faust make a deal with?",
+        "options": [
+          "Mussolini",
+          "The Bank of England",
+          "Dracula",
+          "The Devil"
+        ],
+        "correctOption": 3,
+        "points": 30
+      },
+      {
+        "question": "What did Karl Benz and Gottlieb Daimler invent?",
+        "options": [
+          "The doodlebug",
+          "Lederhosen",
+          "The motor car",
+          "Five-hour operas"
+        ],
+        "correctOption": 2,
+        "points": 30
+      },
+      {
+        "question": "Who was behind the printing press?",
+        "options": ["Gebhard von Blücher", "Johannes Gutenberg", "Friedrich Schiller", "Martin Luther"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "5. The Reinheitsgebot (purity law) relating to which product was laid down in 1516?",
+        "options": [
+          "Sauerkraut",
+          "Sausage meat",
+          "Beer",
+          "Bread"
+        ],
+        "correctOption": 2,
+        "points": 30
+      },
+      {
+        "question": "What is the number of federal states in Germany?",
+        "options": [
+          "16",
+          "8",
+          "18",
+          "21"
+        ],
+        "correctOption": 0,
+        "points": 30
+      },
+      {
+        "question": "What type of clock is Germany famous for producing?",
+        "options": [
+          "Grandfather",
+          "Alarm",
+          "Digital",
+          "Cuckoo"
+        ],
+        "correctOption": 3,
+        "points": 20
+      }
+    ]
+  }
